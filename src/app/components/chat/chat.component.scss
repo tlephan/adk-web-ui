@@ -485,7 +485,7 @@ button {
 }
 
 .app-select-container {
-  width: 35%;
+  width: 70%;
   margin-top: 12px;
   background-color: #212123;
   margin-left: 10px;
@@ -502,7 +502,7 @@ button {
   @include mat.select-overrides(
     (
       placeholder-text-color: #8ab4f8,
-      enabled-trigger-text-color: #8ab4f8,
+      enabled-trigger-text-color: #d4e1f5,
       enabled-arrow-color: #8ab4f8,
     )
   );
